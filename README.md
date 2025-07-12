@@ -1,3 +1,5 @@
 A simple shell made in c.
-It has 3 builtin functions: cd, help, exit
+<br>
+It has 3 builtin functions: cd, help, exit.
+<br>
 Rest can be used just like in a normal shell.
